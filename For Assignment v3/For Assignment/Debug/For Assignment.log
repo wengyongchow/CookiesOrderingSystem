@@ -1,0 +1,4 @@
+﻿4. Date and Time.obj : error LNK2005: _main already defined in 3.do-while loop.obj
+5. Grand total.obj : error LNK2005: _main already defined in 3.do-while loop.obj
+programming assignment A.obj : error LNK2005: _main already defined in 3.do-while loop.obj
+LINK : fatal error LNK1207: incompatible PDB format in 'C:\Users\yangz\Desktop\yong yang\Diploma\sem 1\PCD1\Assignment - programing\For Assignment v3\Debug\For Assignment v2.pdb'; delete and rebuild
